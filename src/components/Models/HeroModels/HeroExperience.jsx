@@ -3,7 +3,7 @@ import {Canvas} from "@react-three/fiber";
 import {OrbitControls} from "@react-three/drei";
 import {useMediaQuery} from "react-responsive";
 import {Room} from "./Room.jsx";
-import Hero from "../../section/Hero.jsx";
+import Hero from "../../../section/Hero.jsx";
 import HeroLights from "./HeroLights.jsx";
 import Particles from "./Particles.jsx";
 
